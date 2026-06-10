@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0.0",
   "runtimeApi": 1,
-  "code": 1,
-  "version": "0.1.0",
+  "code": 2,
+  "version": "0.1.1",
   "minAppVersionCode": 0,
   "entry": "legado_runtime.html",
   "files": [
@@ -17,24 +17,24 @@
     {
       "path": "rhino_sandbox/index.html",
       "url": "rhino_sandbox/index.html",
-      "sha256": "10389f75491620b5f17f7073e13de4478e53fb16f265d94280967b356084f432",
-      "size": 12856,
+      "sha256": "05ef75b277bc4aaf8f5a035641a81083617b6e652500b307e0c7f1eefd603928",
+      "size": 12554,
       "mimeType": "text/html",
       "required": true
     },
     {
       "path": "rhino_sandbox/index_offline.html",
       "url": "rhino_sandbox/index_offline.html",
-      "sha256": "a386e2cf9f82fdba408dd7a904a8a6a4dab2189a163e024814f5b92e0943026d",
-      "size": 6105,
+      "sha256": "ac3d4ab4767ab7917f37c1b05f6c259346594bf99fc9c0b9069a5004f797cf0c",
+      "size": 5949,
       "mimeType": "text/html",
       "required": false
     },
     {
       "path": "rhino_sandbox/jsoup_impl.js",
       "url": "rhino_sandbox/jsoup_impl.js",
-      "sha256": "45869de52cc6d24b0b9949c3af8d9e9f66e28c42af97b0f96f824270654272cc",
-      "size": 27000,
+      "sha256": "0cb4ec5f9d1aa41f31505da6e55e4a1cb30282e8dbd5c272bc6020976c08bf2a",
+      "size": 26008,
       "mimeType": "application/javascript",
       "required": true
     },
@@ -49,8 +49,8 @@
     {
       "path": "rhino_sandbox/lib/README.md",
       "url": "rhino_sandbox/lib/README.md",
-      "sha256": "f0ab5754258f9f850a4b7ed1d38dc3c09047f8261da15a3c8ecf3d5a80178b29",
-      "size": 1575,
+      "sha256": "d08e2be6bec4da83b5c3618baf7d77c667258fbfd8c9662084e60ee76b0136ea",
+      "size": 1526,
       "mimeType": "text/markdown",
       "required": false
     },
@@ -65,19 +65,18 @@
     {
       "path": "rhino_sandbox/rhino_bridge.js",
       "url": "rhino_sandbox/rhino_bridge.js",
-      "sha256": "d167843cecefa59782685144e447866ab4b872a9805afd7f7f6e41c4b6646a60",
-      "size": 21120,
+      "sha256": "90a23a7bb71ac50709f5503902216f85b3cf31366ef5b306f9153e6cd5348958",
+      "size": 20518,
       "mimeType": "application/javascript",
       "required": true
     },
     {
       "path": "rhino_sandbox/rhino_offline.js",
       "url": "rhino_sandbox/rhino_offline.js",
-      "sha256": "5f8eed63a391bfbc2202ab3a2a9a7d52d0ddf586388a0a81275c4b7d97ed1565",
-      "size": 25356,
+      "sha256": "51a6f85e8782086b033537b510035cbc81a33a95ff846d7627880db232f125a8",
+      "size": 24650,
       "mimeType": "application/javascript",
       "required": true
     }
   ]
 }
-
